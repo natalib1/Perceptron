@@ -3,7 +3,7 @@ mmn13
 #Python 3.5.0
 #Written with jupyter notebook
 
-#HTML file - code and run results
+#Percepptron.html - code and run results
 
 #Description:
 Perceptron that separates Binary numbers multiplied by 1 and 0: 
